@@ -1,4 +1,4 @@
-Hi 👋 My name is Raffaele Lauria.
+Hi 👋 My name is Raffaele Lauria
 =================================
 
 Software developer
