@@ -7,6 +7,7 @@ Software developer
 Graduated in Computer Science at the University of Basilicata, UNIBAS.
 
 * 🌍  I'm based in Potenza, Basilicata, Italy.
+* ✉️  You can contact me at [raffaele.lauria.al@gmail.com](mailto:raffaele.lauria.al@gmail.com)
 
 ### Skills
 
