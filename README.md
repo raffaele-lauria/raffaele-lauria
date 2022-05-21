@@ -8,7 +8,7 @@ Graduated in Computer Science at the University of Basilicata, UNIBAS.
 
 * 🌍  I'm based in Potenza, Basilicata, Italy.
 * ✉️  You can contact me at [raffaele.lauria.al@gmail.com](mailto:raffaele.lauria.al@gmail.com)
-* - 🌱 I’m currently learning **Android, Ethical Hacking**
+* 🌱 I’m currently learning **Android, Ethical Hacking**
 
 ### Skills
 
@@ -24,5 +24,7 @@ Graduated in Computer Science at the University of Basilicata, UNIBAS.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/raffaele-lauria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://linkedin.com/in/raffaele lauria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raffaele lauria" height="30" width="40" /></a>
+  <a href="https://www.github.com/raffaele-lauria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raffaele-lauria&show_icons=true&locale=en" alt="raffaele-lauria" /></p>
