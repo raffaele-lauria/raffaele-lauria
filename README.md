@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 My name is Raffaele Lauria</h1>
 
 
-<h3 align="center">Software developer</h3>
+<h3 align="center">Software analyst</h3>
 <h3 align="center">------------------</h3>
   
 
